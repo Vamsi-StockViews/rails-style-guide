@@ -42,6 +42,11 @@ extensive career as a professional software engineer, feedback and suggestions
 from members of the Rails community and various highly regarded Rails
 programming resources.
 
+[RuboCop](https://github.com/rubocop-hq/rubocop), a static code analyzer
+(linter) and formatter, has a
+[`rubocop-rails`](https://github.com/rubocop-hq/rubocop-rails) extension, based
+on this style guide.
+
 ## Table of Contents
 
   * [Configuration](#configuration)
